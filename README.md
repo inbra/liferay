@@ -1,2 +1,2 @@
 ## set up of development environment
-[install and set up LiferayIDE](liferayide)
+[install and set up LiferayIDE](liferayidesetup.md)
